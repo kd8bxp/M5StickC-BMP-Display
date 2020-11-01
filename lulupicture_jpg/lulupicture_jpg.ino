@@ -4,7 +4,7 @@
 
 #include "xbm.h"             // Sketch tab header for xbm images
 
-#include <M5StickC.h>        // Hardware-specific library
+#include "src/M5StickC/M5StickC.h"        // Hardware-specific library
 
 
 void setup() {

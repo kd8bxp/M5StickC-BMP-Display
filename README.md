@@ -23,6 +23,10 @@ That's it.
 
 Have fun, and happy converting.  
 
+## Libraries
+
+Because the Arduino IDE has been getting pretty bad handling libraries, I've included the libraries used in the src directory of the sketch. These libraries may have been slightly modified to work from the sketch directory, and do not include the examples.  
+
 ## Contributing
 
 1. Fork it!
